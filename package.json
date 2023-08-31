@@ -1,0 +1,25 @@
+{
+  "name": "css-most-needed-class-gerator",
+  "version": "1.0.0",
+  "description": "This work for css most usage classes maker. Such as margin, padding, position, text-alignment, flex-box, postion helper class, height, width, z-index, font-weight classes maker likely tailwind utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run process"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcoder97/css-most-needed-class-gerator.git"
+  },
+  "keywords": [
+    "Css",
+    "Maker",
+    "Class",
+    "Maker"
+  ],
+  "author": "Md. Saiful",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcoder97/css-most-needed-class-gerator/issues"
+  },
+  "homepage": "https://github.com/webcoder97/css-most-needed-class-gerator#readme"
+}
