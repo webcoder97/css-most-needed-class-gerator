@@ -21,8 +21,12 @@
   "bugs": {
     "url": "https://github.com/webcoder97/css-most-needed-class-gerator/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/webcoder97/css-most-needed-class-gerator#readme",
   "dependencies": {
     "sass": "^1.66.1"
   }
+=======
+  "homepage": "https://github.com/webcoder97/css-most-needed-class-gerator#readme"
+>>>>>>> e037f905b0716d4b0bf3996ae2b4190ecbaad8fb
 }
